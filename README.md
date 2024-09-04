@@ -7,6 +7,9 @@ In the field of medical imaging, accurate classification of Chest X-rays (CXRs) 
 ### Presentation
 [You can watch the presentation here](https://www.youtube.com/watch?v=cKdiDw5Vsms)
 
+### Poster
+![Poster](poster.jpg "poster")
+
 ### Reposiory Structure
 1. The datasets can be downloaded from Kaggle. [Link](https://www.kaggle.com/datasets/nih-chest-xrays/data)
 1. The code to train the GAN network (our best network) can be found in `src/gan.py`
